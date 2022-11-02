@@ -7,6 +7,9 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/manureini/MShared</RepositoryUrl>
     <Description>Shared code for all M* stuff</Description>
+    <AssemblyVersion></AssemblyVersion>
+    <FileVersion></FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
